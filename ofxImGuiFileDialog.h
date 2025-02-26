@@ -1,3 +1,4 @@
+
 /*
   _____              _____         _  ______  _  _        _____   _         _
  |_   _|            / ____|       (_)|  ____|(_)| |      |  __ \ (_)       | |
@@ -14,7 +15,8 @@
                               \ V / | |_| |_| (_) |_| (_) |
                                \_/   \___/(_)\___/(_)\___/
 
-GITHUB REPOT : https://github.com/aiekick/ImGuiFileDialog
+ORIGINAL GITHUB REPOT : https://github.com/aiekick/ImGuiFileDialog
+FORK GITHUB REPOT : https://github.com/MasterLaplace/ofxImGuiFileDialog
 DOCUMENTATION : see the attached Documentation.md
 
 generated with "Text to ASCII Art Generator (TAAG)"
@@ -50,7 +52,7 @@ SOFTWARE.
 
 // Config file
 #ifndef CUSTOM_IMGUIFILEDIALOG_CONFIG
-#include "ImGuiFileDialogConfig.h"
+#include "ofxImGuiFileDialogConfig.h"
 #else  // CUSTOM_IMGUIFILEDIALOG_CONFIG
 #include CUSTOM_IMGUIFILEDIALOG_CONFIG
 #endif  // CUSTOM_IMGUIFILEDIALOG_CONFIG
